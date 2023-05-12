@@ -2,7 +2,7 @@
 
 **i'm made lankit page with my html and css skill**
 
-- [Demo Project](https://setpmn.github.io/cartzilla/)
+- [Demo Project](https://setpmn.github.io/Cartzilla/)
 
 - Developed by peyman farhadi
 
